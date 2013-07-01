@@ -42,3 +42,16 @@ http://www.sharefest.me/
 http://tokbox.com/opentok/
 
 https://vline.com/
+
+###More information:
+
+Cullen jennings html5 webrtc videos: http://www.youtube.com/watch?v=Yf3eNciKddc, http://vimeo.com/47682405
+
+HTML Rocks:
+* http://www.html5rocks.com/en/tutorials/getusermedia/intro/
+* http://www.html5rocks.com/en/tutorials/webrtc/basics/
+* http://www.webrtcbook.com/
+
+
+
+
