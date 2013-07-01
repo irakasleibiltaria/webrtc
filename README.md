@@ -52,6 +52,12 @@ HTML Rocks:
 * http://www.html5rocks.com/en/tutorials/webrtc/basics/
 * http://www.webrtcbook.com/
 
+WebRTC android native app? :
+
+"This directory contains an example Android client for http://apprtc.appspot.com"
+
+https://code.google.com/p/libjingle/source/browse/#svn%2Ftrunk%2Ftalk%2Fexamples%2Fandroid%2Fsrc%2Forg%2Fappspot%2Fapprtc
+
 
 
 
