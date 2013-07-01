@@ -12,7 +12,7 @@ For conference call: [MCU](http://en.wikipedia.org/wiki/Multipoint_control_unit)
 
 For debug: chrome://webrtc-internals/
 
-adapter.js for browsers compatibility
+adapter.js http://www.webrtc.org/interop, https://code.google.com/p/webrtc/source/browse/trunk/samples/js/base/adapter.js for browsers compatibility
 
 ####Phones and more: (interoperate with non browsers devices):
 
