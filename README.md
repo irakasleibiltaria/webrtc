@@ -7,7 +7,7 @@ http://simpl.info/
 
 STUN/TURN servers
 
-For conference call: MCU, large N-way call
+For conference call: [MCU](http://en.wikipedia.org/wiki/Multipoint_control_unit), large N-way call
 
 
 Phones and more: (interoperate with non browsers devices):
